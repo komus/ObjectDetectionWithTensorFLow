@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ObjectDetectionWithTensorFlow", "ObjectDetectionWithTensorFlow\ObjectDetectionWithTensorFlow.pyproj", "{CC2E89B5-29D4-4BE6-B785-D2727C60DFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2E89B5-29D4-4BE6-B785-D2727C60DFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2E89B5-29D4-4BE6-B785-D2727C60DFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E6B0729-75DE-44C0-8288-C34DDAB93B2F}
+	EndGlobalSection
+EndGlobal
